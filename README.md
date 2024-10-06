@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pari1233&label=Profile%20views&color=0e75b6&style=flat" alt="pari1233" /> </p>
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif"  width="50px" height="50px" align="center"></img>&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif"  width="50px" height="50px" align="center"></img> ***About me***
 
 - :credit_card: My full name is **Galle Arachchige Vishvani Parindi** <img src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif" width="400" align="right"/>
 - :school: I'm currently the Final year student at **IIT Kharagpur**
@@ -16,7 +16,7 @@
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 - 📫 How to reach me **gavparindi@gmail.com**
 
- ## <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px" align="center"></img>&nbsp;Connect with me:</h3>
+ ## <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px" align="center"></img>Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishvani galle arachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishvani galle arachchi" height="30" width="40" /></a>
 </p>
