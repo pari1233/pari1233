@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **gavparindi@gmail.com**
 
- <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px" align="center">Connect with me:</h3>
+ ## <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px" align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishvani galle arachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishvani galle arachchi" height="30" width="40" /></a>
 </p>
