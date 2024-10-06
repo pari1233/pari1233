@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif)](https://pari1233.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://pari1233.io)
 <h1 align="center">Hi 👋, I'm Parindi</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif">
