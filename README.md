@@ -3,7 +3,6 @@
 <h3 align="center">A passionate full-stack developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pari1233&label=Profile%20views&color=0e75b6&style=flat" alt="pari1233" /> </p>
 
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif"  width="50px" height="50px" align="center"></img> ***About me***
 
 - :credit_card: My full name is **Galle Arachchige Vishvani Parindi** <img src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif" width="400" align="right"/>
