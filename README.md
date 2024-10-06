@@ -1,4 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://pari1233.io)
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [MikeOwino!](https://mikeowino.com) 👋
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MikeOwino/&title=Profile%20Views)
 <h1 align="center">Hi 👋, I'm Parindi</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif">
