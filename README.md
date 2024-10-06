@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://pari1233.io)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" align="center"></img>, I'm [Parindi]()</h1>
+##<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" align="center"></img>, I'm [Parindi]()</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pari1233&label=Profile%20views&color=0e75b6&style=flat" alt="pari1233" /> </p>
 
