@@ -38,7 +38,7 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,c,cs,css,cpp,php,py,html,css,react,tailwind,&perline=8)](https://skillicons.dev)
 
 
 <h3 align="left">Languages and Tools:</h3>
