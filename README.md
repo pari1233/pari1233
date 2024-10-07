@@ -5,7 +5,7 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px" height="50px" align="center"></img><i> About me </i></h2> </br> </br>
 
-- :credit_card: My full name is **Galle Arachchige Vishvani Parindi** <img src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif" width="400" align="right"/>
+- :credit_card: My full name is **Galle Arachchige Vishvani Parindi** <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400" align="right"/>
 - :school: I'm currently the Final year student at **IIT Kharagpur**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Kharagpur, West Bengal, India**
