@@ -5,6 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pari1233&label=Profile%20views&color=0e75b6&style=flat" alt="pari1233" /> </p>
 <h2 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px" height="50px" align="center"></img><i> About me </i></h2> </br> </br>
 - :credit_card: My full name is **Galle Arachchige Vishvani Parindi** <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400" align="right"/>
+
 - :school: I'm currently the Final year student at **IIT Kharagpur**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Kharagpur, West Bengal, India**
@@ -13,6 +14,7 @@
 - :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 - 📫 How to reach me **gavparindi@gmail.com**
+  
 <!-- Technologies That I Know -->
  <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  width="50px" height="50px" align="center"></img><i> Technologies That I Know </i></h2>
  </br>
