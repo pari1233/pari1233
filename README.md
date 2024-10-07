@@ -37,7 +37,7 @@ Let’s connect and explore how we can collaborate on exciting projects!
 <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50px" height="50px" align="center"></img><i> Connect with me </i></h2></br>
 <!--icons and links-->
 <p align="center">
-<a href="http://www.linkedin.com/in/vishvani-galle-arachchi-a3b522220" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="www.linkedin.com/in/vishvani-galle-arachchi-a3b522220" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
 <a href="gavparindi@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a> 
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="discord" height="50" width="50" /></a> 
