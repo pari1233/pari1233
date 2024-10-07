@@ -4,8 +4,8 @@
 <h3 align="center">A passionate full-stack developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pari1233&label=Profile%20views&color=0e75b6&style=flat" alt="pari1233" /> </p>
 <h2 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px" height="50px" align="center"></img><i> About me </i></h2> </br> </br>
-- :credit_card: My full name is **Galle Arachchige Vishvani Parindi** <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400" align="right"/>
 
+- :credit_card: My full name is **Galle Arachchige Vishvani Parindi** <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400" align="right"/>
 - :school: I'm currently the Final year student at **IIT Kharagpur**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Kharagpur, West Bengal, India**
