@@ -2,16 +2,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" align="center"></img>, I'm <a href=""> Parindi</a></h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pari1233&label=Profile%20views&color=0e75b6&style=flat" alt="pari1233" /> </p>
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=pari1233&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-<div id="user-content-toc">
-  <ul align="left">
-<summrary><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif"  width="50px" height="50px" align="center"></img> <h2 style="display: inline-block"><i>About me</i></h2></summrary></div>
-  </ul>
+
+<h2 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px" height="50px" align="center"></img><i> About me </i></h2> </br> </br>
 
 - :credit_card: My full name is **Galle Arachchige Vishvani Parindi** <img src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif" width="400" align="right"/>
 - :school: I'm currently the Final year student at **IIT Kharagpur**
@@ -23,52 +15,21 @@
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 - 📫 How to reach me **gavparindi@gmail.com**
 
-## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"  width="50px" height="50px" align="center"></img> ***Connect with me***
 
-<p align="left">
-<a href="https://linkedin.com/in/vishvani galle arachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishvani galle arachchi" height="30" width="40" /></a>
-</p>
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<!-- Technologies That I Know -->
+ <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  width="50px" height="50px" align="center"></img><i> Technologies That I Know </i></h2>
  </br>
-</br>
-</br>
-</a>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  width="50px" height="50px" align="center"></img> ***Languages and Tools:***
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,c,cs,css,cpp,php,py,html,css,react,tailwind,&perline=8)](https://skillicons.dev)
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  width="50px" height="50px" align="center"></img> <h2 style="display: inline-block"><i>Technologies That I Know </i></h2></summary>
-  </ul>
-</div>
+  </br>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
-
+ </br>
 
 <!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+<h2 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px" height="50px" align="center"></img><i> Connect with me </i></h2> </ </br>br>
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
@@ -77,9 +38,11 @@
 <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
-</p>
+</p> </br>
 
 
+<!-- GitHub Analytics-->
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50px" height="50px" align="center"></img><i> GitHub Analytics </i></h2> </br> </br>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
