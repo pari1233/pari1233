@@ -1,4 +1,5 @@
-![MasterHead](https://as2.ftcdn.net/v2/jpg/04/27/62/45/1000_F_427624559_npSKNHF0xE2a8BO84zBcnryRpU8WjlHN.jpg)
+<img src="https://as2.ftcdn.net/v2/jpg/04/27/62/45/1000_F_427624559_npSKNHF0xE2a8BO84zBcnryRpU8WjlHN.jpg" alt="MasterHead" width="1000" height="250">
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" align="center"></img>, I'm <a href="https://drive.google.com/file/d/1o7ToWotSPNHv6m3R_Ev-65ZZLD61ZtyY/view?usp=sharing"> Parindi</a></h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pari1233&label=Profile%20views&color=0e75b6&style=flat" alt="pari1233" /> </p>
